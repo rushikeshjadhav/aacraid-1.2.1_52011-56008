@@ -3,7 +3,7 @@
 %define vendor_label microsemi
 %define driver_name aacraid
 
-%define uname  4.4.0+10
+%define uname  4.19.0+1
 %define module_dir updates
 
 
